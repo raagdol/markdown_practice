@@ -38,7 +38,7 @@ React는 사용자 인터페이스를 구축하기 위해 선언적이고 효율
 이텔릭 _ _<br />
 이텔릭 + 두껍게 **_ _** <br />
 취소선 ~~ ~~ <br />
-밑줄 <u> </u>
+밑줄 u태그
 
 
 _이텔릭_ <br />
@@ -81,6 +81,7 @@ _이텔릭_ <br />
 앞에 느낌표(!) 작성한다  
 이미지에 링크를 걸고싶다면  
 마크다운 이미지 코드를 링크 코드로 묶어준다
+이미지 중앙정렬은 center태그로 묶어준다
 
 ![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png)
 
